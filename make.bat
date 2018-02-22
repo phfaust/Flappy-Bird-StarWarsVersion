@@ -1,0 +1,1 @@
+g++ -std=gnu++11 -c %1 -I"/Users/fielfaustino/Desktop/Dev/C++/Libraries/SFML-2.4.2-osx-clang/include" -o main.o && g++ main.o -o a -L"/Users/fielfaustino/Desktop/Dev/C++/Libraries/SFML-2.4.2-osx-clang/lib" -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system
