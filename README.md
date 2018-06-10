@@ -8,3 +8,10 @@ C++ Project for CS 179.14A (SPECIAL TOPICS IN MULTIMEDIA: PC AND CONSOLE GAME DE
 **Executable file**: FlappyWars
 
 In order to execute the game, download all files into one folder. Open the folder in a command prompt/terminal and run the executable (input "FlappyWars" for windows, "./FlappyWars" for mac/linux).
+
+**Notes**
+
+* Game only ends when the player goes too high or too low
+* When player gets damaged, it doesn't end the game. It simply shows player is damaged.
+* Player can be damaged an infinite number of times
+* After a game over, the game simply closes. In order to play again, the player must simply rerun the game.
